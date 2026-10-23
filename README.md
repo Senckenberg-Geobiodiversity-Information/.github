@@ -57,5 +57,7 @@ GBIF Germany – Invertebrates III – Biodiversity data mobilisation and exchan
 https://scholar.google.com/citations?user=Gt6HSNgAAAAJ&hl=en   
 <img width="150" height="142" alt="image" src="https://github.com/user-attachments/assets/b69ecabd-ffe0-4e38-99fe-51695ed800eb" />
 
-# Research Individual GitHub Repositories
-https://github.com/haniehsaeedi?tab=repositories 
+# Individual Research Repositories
+GitHub repositories maintained by our team members, including research code, analytical workflows, and biodiversity data tools.
+
+https://github.com/haniehsaeedi?tab=repositories&utm_source=chatgpt.com 
