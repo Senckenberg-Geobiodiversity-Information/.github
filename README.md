@@ -53,5 +53,9 @@ Senckenberg (meta)data portal – Institutional access to Senckenberg research d
 OBIS Deep-Sea Node – Deep-sea biodiversity occurrence data.
 GBIF Germany – Invertebrates III – Biodiversity data mobilisation and exchange.
 
-# Publications: https://scholar.google.com/citations?user=Gt6HSNgAAAAJ&hl=en   
+# Publications 
+https://scholar.google.com/citations?user=Gt6HSNgAAAAJ&hl=en   
 <img width="150" height="142" alt="image" src="https://github.com/user-attachments/assets/b69ecabd-ffe0-4e38-99fe-51695ed800eb" />
+
+# Research Individual GitHub Repositories
+https://github.com/haniehsaeedi?tab=repositories 
