@@ -1,5 +1,5 @@
-# Geobiodiversity Information and Data Management 
-# FAIR data, research infrastructures, metadata and collection digitisation, (marine) biodiversity informatics, and open science at Senckenberg Data and Modelling Centre (SDMC)
+# Geobiodiversity Information and Data Management, Senckenberg Data and Modelling Centre (SDMC)
+# FAIR data, research infrastructures, metadata and collection digitisation, (marine) biodiversity informatics, and open science 
 
 # About Our Team 
 We lead Senckenberg-wide Geobiodiversity Information and Data Management, advancing FAIR (Findable, Accessible, Interoperable and Reusable) data practices, research data management, collection data curation, and biodiversity informatics. We develop and maintain data infrastructures, standards, and workflows that connect Senckenberg's scientific collections and research data with national and international biodiversity information systems. Our work combines data management, collection digitisation, biodiversity informatics, ecological modelling, and open science to make geobiodiversity data accessible, interoperable, and reusable for research, conservation, and evidence-based decision-making.
@@ -42,9 +42,12 @@ Our methodological approaches combine geobiodiversity informatics, statistical a
 We contribute to proposal development, project partnerships, work-package leadership, and task coordination in externally funded projects and research infrastructures.
 
 Selected initiatives include:
-# NFDI4Biodiversity – National research infrastructure for biodiversity and environmental data.
-# GFBio – Research data infrastructure supporting data management, archiving, and publication in the natural sciences.
-# TETTRIX / TETTRIX-Next – Development of next-generation European taxonomic systems and digital biodiversity infrastructures.
+# NFDI4Biodiversity
+National research infrastructure for biodiversity and environmental data.
+# GFBio
+Research data infrastructure supporting data management, archiving, and publication in the natural sciences.
+# TETTRIX / TETTRIX-Next
+Development of next-generation European taxonomic systems and digital biodiversity infrastructures.
 Our project activities focus on FAIR biodiversity data infrastructures, collection digitisation, data mobilisation, interoperable research systems, and web-based biodiversity mapping and modelling platforms.
 
 # Data Infrastructure & Repositories
