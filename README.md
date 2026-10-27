@@ -63,4 +63,10 @@ https://scholar.google.com/citations?user=Gt6HSNgAAAAJ&hl=en
 # Individual Research Repositories
 GitHub repositories maintained by our team members, including research code, analytical workflows, and biodiversity data tools.
 
-https://github.com/haniehsaeedi?tab=repositories&utm_source=chatgpt.com 
+# Hanieh Saeedi
+https://github.com/haniehsaeedi?tab=repositories&utm
+
+# Diana Sattelmeier
+https://github.com/dianasattelmeier?tab=repositories  
+
+
